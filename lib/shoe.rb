@@ -15,4 +15,3 @@ end
 
 shoe = Shoe.new("Nike")
 shoe.cobble
-shoe.condition
