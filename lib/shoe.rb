@@ -8,7 +8,7 @@ class Shoe
   end
 
   def cobble
-    puts (condition)
+    puts
   end
 
 end
