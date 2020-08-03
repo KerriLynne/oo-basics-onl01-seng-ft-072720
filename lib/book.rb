@@ -38,4 +38,5 @@ class Book
 
 end
 
-Book.new("And Then There Were None")
+Book.new("Some Title")
+book.turn_page
