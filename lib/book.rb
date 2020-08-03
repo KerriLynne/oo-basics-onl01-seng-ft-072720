@@ -1,3 +1,5 @@
+require "pry"
+
 class Book
 
   def initialize(title)
