@@ -1,12 +1,11 @@
 # Make your shoe class here!
 class Shoe
-  def initialize(brand)
-    @brand = brand
+  attr_accessor :color,
+  attr_reader :brand
+
+  def initialize(title)
+    @title = title
   end
 
-  def brand
-    @brand
-  end
 end
-
 shoe = Shoe.new("Nike")
