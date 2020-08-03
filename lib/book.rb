@@ -1,4 +1,3 @@
-require "pry"
 
 class Book
 
@@ -37,7 +36,7 @@ class Book
   def turn_page
     puts "Flipping the page...wow, you read fast!"
   end
-binding.pry
+
 end
 
 book = Book.new("Some Title")
