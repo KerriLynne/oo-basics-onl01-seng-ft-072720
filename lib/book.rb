@@ -40,3 +40,5 @@
 
 # book = Book.new("Some Title")
 # book.turn_page
+
+# ABOVE IS LONGER METHOD WITHOUT ATTRIBUTE ACCESSORS AND READERS!!
