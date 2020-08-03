@@ -1,12 +1,12 @@
 # Make your shoe class here!
 class shoe
-  attr_reader :brand
-
-  def initialize(brand)
-    @brand = brand
+  def initialize(title)
+    @title = title
   end
 
-
+  def title
+    @title
+  end
 end
 
 shoe = shoe.new("Nike")
