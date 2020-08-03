@@ -9,4 +9,4 @@ class Shoe
   end
 end
 
-shoe = shoe.new("Title")
+shoe = Shoe.new("Title")
